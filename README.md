@@ -9,4 +9,4 @@ Dashboard
 Insights
 1) These hotel chains have a flat pricing strategy, due to which they are loosing potential revenue. Hence they should adopt a dynamic pricing strategy based on the demand-supply or atleast they should move on to weekend/weekday pricing model.
 2) There is a very high correlation between the occupancy % and the average rating of a particular hotel, thus low occupancy % hotels should work on their online presence accross all platforms and also improve their in person services.
-3) The rates at which they charge a customer from their own website or offline booking is higher than what they charge through other booking platforms. Thus they should lower their own channel prices as they don't have to pay any commision charges, in order to increase the revenue from their own channel.
+3) The rates at which they charge a customer from their offline booking is higher than what they charge through other booking platforms. Thus they should lower their own channel prices as they don't have to pay any commission charges, in order to increase the revenue from their own channel.
